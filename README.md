@@ -45,6 +45,6 @@ Threat intelligence is not just about collecting IOCs or writing long reports. G
 
 ## Contact
 
-* LinkedIn: Add your LinkedIn link here
+* LinkedIn: https://www.linkedin.com/in/gerald-h-corbett
 * GitHub: GeraldCorbett84
 * Email: [gerald.corbett84@gmail.com](mailto:gerald.corbett84@gmail.com)
