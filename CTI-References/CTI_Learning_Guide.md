@@ -23,9 +23,10 @@ The US government's authoritative framework for how threat intelligence fits int
 
 ### Videos
 
-**Hak5 — ThreatWire (YouTube)**
-Weekly series covering current security threats, threat actor news, and intelligence trends. Running since 2012, it's one of the longest-standing free threat intelligence news shows in the infosec community. Great for staying current as a beginner.
->  — https://www.youtube.com/playlist?list=PLW5y1tjAOzI0Sx4UU2fncEwQ9BQLr5Vlu
+**Katie Nickels — CTI Talks & SANS Threat Analysis Rundown (YouTube)**
+Katie Nickels is a SANS FOR578 instructor and former ATT&CK Threat Intelligence Lead at MITRE. Her free YouTube talks cover what threat intelligence is, where to get it, and how a SOC should use it — some of the clearest beginner-friendly CTI content available from an actual practitioner.
+>  — https://www.youtube.com/watch?v=EEZqIPZrZpo
+
 
 **John Hammond — Cyber Threat Intelligence Intro (YouTube)**
 Practical channel covering SOC and CTI concepts in digestible, real-world scenarios.
