@@ -23,9 +23,9 @@ The US government's authoritative framework for how threat intelligence fits int
 
 ### Videos
 
-**TCM Security — Threat Intelligence for Beginners (YouTube)**
-Walkthrough of CTI fundamentals, the kill chain, and how analysts operate day-to-day.
-> — https://www.youtube.com/@TCMSecurityAcademy
+**Hak5 — ThreatWire (YouTube)**
+Weekly series covering current security threats, threat actor news, and intelligence trends. Running since 2012, it's one of the longest-standing free threat intelligence news shows in the infosec community. Great for staying current as a beginner.
+>  — https://www.youtube.com/playlist?list=PLW5y1tjAOzI0Sx4UU2fncEwQ9BQLr5Vlu
 
 **John Hammond — Cyber Threat Intelligence Intro (YouTube)**
 Practical channel covering SOC and CTI concepts in digestible, real-world scenarios.
